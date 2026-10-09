@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MY APP</string>
+    <string name="hint_nombre">Introduce tu nombre</string>
+    <string name="hint_edad">Introduce tu edad</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_volver">Volver</string>
+    <string name="msg_nombre_vacio">Por favor, introduce tu nombre</string>
+</resources>
